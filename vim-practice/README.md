@@ -39,4 +39,4 @@ Then work through this sequence:
 ## Notes
 
 - `practice1.txt` is a ChatGPT-generated sequence practice file.
-- `practice2.txt` contains a server status list for practicing search, navigation, and editing.
+- `practice2.txt` is a ChatGPT-generated sequence practice file that contains a server status list for practicing search, navigation, and editing.
