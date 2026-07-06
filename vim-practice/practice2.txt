@@ -1,5 +1,6 @@
 server1 online
-server2 offline
+server2 online 
+server3 online
 server3 online
 backup pending
 database offline
