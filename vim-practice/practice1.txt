@@ -1,0 +1,5 @@
+The old terminal hummed quietly while Maya practiced editing a plain text file in Vim. She moved through the paragraph one word at a time, deleting extra spaces, changing awkward phrases, and learning how quickly small commands could reshape a sentence. At first the modes felt strange, but after a few minutes the pattern started to make sense: normal mode for movement and commands, insert mode for writing, and visual mode for selecting text. By the end of the session, the blinking cursor no longer felt like a wall; it felt like a tool waiting for instructions.
+
+Practice line.
+
+keep on going line.
